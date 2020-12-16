@@ -78,3 +78,7 @@ dimwishlist:item=4248569242&perks=791862061,3300816228
 dimwishlist:item=3616586446&perks=791862061,3300816228
 //notes: FILO - PvE God Roll
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
+
+// Stars in Shadow
+//notes: osobný wishlist
+dimwishlist:item=2050789284&perks=460017080
