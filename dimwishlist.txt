@@ -6,10 +6,3 @@ dimwishlist:item=2742838701&perks=47981717,2846385770
 
 //notes: dire promise, PvP God Roll (OS/RF + Range MW)
 dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770,2697220197
-
-//notes: trash
-dimwishlist:item=-2742838701&perks=3511092054
-dimwishlist:item=-2742838701&perks=1774574192
-dimwishlist:item=-2742838701&perks=1645158859
-dimwishlist:item=-2742838701&perks=3400784728
-dimwishlist:item=-2742838701&perks=3300816228
