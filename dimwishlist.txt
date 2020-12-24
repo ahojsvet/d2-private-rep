@@ -1,5 +1,5 @@
 title: Osobný DIM wishlist, r/spiceplanet, 2020
-test
+
 // Cold Front
 //notes: osobný wishlist
 dimwishlist:item=1506719573&perks=1392496348,3230963543,3436462433,3425386926
