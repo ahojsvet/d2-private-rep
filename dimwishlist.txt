@@ -1,8 +1,5 @@
 title: Osobný DIM wishlist, r/spiceplanet, 2020
 
-//----- DIRE PROMISE (1310/ Season 13)
-//notes: dire promise, PvP build (opening shot/rangefinder)
-dimwishlist:item=2742838701&perks=47981717,2846385770
-
-//notes: dire promise, PvP God Roll (OS/RF + Range MW)
-dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770,2697220197
+// Dire Promise
+dimwishlist:item=2742838701&perks=47981717,2846385770#notes: dire promise, PvP build (opening shot/rangefinder)
+dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770,2697220197#notes: dire promise, PvP God Roll (OS/RF + Range MW)
