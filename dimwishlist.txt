@@ -1,4 +1,33 @@
 title: Osobný DIM wishlist, r/spiceplanet, 2020
 
-// Dire Promise
-dimwishlist:item=-2742838701&perks=-3400784728
+// PvP 120 HC Meta (Season 12)
+//notes: Loud Lullaby (Legacy Item) PvP God Roll Season 12, 120 Meta MAX RANGE Rampage
+dimwishlist:item=3924212056&perks=3250034553,3142289711,1168162263,3425386926,2697220197
+//notes: Crimil's Dagger (1360) PvP God Roll Season 12, 120 Meta MAX RANGE Kill Clip
+dimwishlist:item=4292849692&perks=3142289711,1168162263,1015611457,2697220197
+//notes: Crimil's Dagger (1360) PvP Roll Season 12, 120 Meta MAX RANGE Explosive payload OR timed payload
+dimwishlist:item=4292849692&perks=3142289711,1168162263,1954620775,2697220197
+dimwishlist:item=4292849692&perks=3142289711,1168162263,3038247973,2697220197
+//notes: Steady hand (1410) PvP Roll Season 12, 120 Meta MAX RANGE STABILITY Outlaw/Iron Grip
+dimwishlist:item=2220884262&perks=1561002382,1168162263,11551321,2697220197
+//notes: Steady hand (1410) PvP Roll Season 12, 120 Meta MAX RANGE Outlaw/Swashbuckler
+dimwishlist:item=2220884262&perks=1561002382,1168162263,4082225868,2697220197
+//notes: Steady hand (1410) PvP Roll Season 12, 120 Meta MAX AIMASSIST Moving/Iron Gaze
+dimwishlist:item=2220884262&perks=1561002382,588594999,4152709778,2697220197
+
+// PvP Auto Rifles
+//notes: Arc Logic (Legacy Item) PvP God Roll, MAX RANGE
+dimwishlist:item=2723909519&perks=3250034553,3142289711,588594999,2846385770,2697220197
+
+// PvP 140 HC
+//notes: Ancient Gospel (1410) PvP MAX RANGE Rapid Hit/Rangefinder OR Outlaw/Kill Clip
+dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2846385770,2697220197
+dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,1015611457,2697220197
+//notes: Nation of beasts (1410) PvP MAX RANGE Outlaw/Kill Clip
+dimwishlist:item=654370424&perks=202670084,3142289711,1168162263,1015611457,2697220197
+//notes: Nation of beasts (1410) PvP MAX RANGE Opening Shot/Rampage
+dimwishlist:item=654370424&perks=202670084,3142289711,47981717,3425386926,2697220197
+
+// PvP 180 HC
+//notes: Posterity (1410) PvP MAX RANGE Killing Wind/Rampage
+dimwishlist:item=3281285075&perks=202670084,3142289711,2450788523,3425386926,2697220197
