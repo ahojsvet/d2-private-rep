@@ -1,33 +1,59 @@
-title: Osobný DIM wishlist, r/spiceplanet, 2020
+title: r/spiceplanet (Peterko), 2021-02-18 09:23
 
-// PvP 120 HC Meta (Season 12)
-//notes: Loud Lullaby (Legacy Item) PvP God Roll Season 12, 120 Meta MAX RANGE Rampage
-dimwishlist:item=3924212056&perks=3250034553,3142289711,1168162263,3425386926,2697220197
-//notes: Crimil's Dagger (1360) PvP God Roll Season 12, 120 Meta MAX RANGE Kill Clip
-dimwishlist:item=4292849692&perks=3142289711,1168162263,1015611457,2697220197
-//notes: Crimil's Dagger (1360) PvP Roll Season 12, 120 Meta MAX RANGE Explosive payload OR timed payload
-dimwishlist:item=4292849692&perks=3142289711,1168162263,1954620775,2697220197
-dimwishlist:item=4292849692&perks=3142289711,1168162263,3038247973,2697220197
-//notes: Steady hand (1410) PvP Roll Season 12, 120 Meta MAX RANGE STABILITY Outlaw/Iron Grip
-dimwishlist:item=2220884262&perks=1561002382,1168162263,11551321,2697220197
-//notes: Steady hand (1410) PvP Roll Season 12, 120 Meta MAX RANGE Outlaw/Swashbuckler
-dimwishlist:item=2220884262&perks=1561002382,1168162263,4082225868,2697220197
-//notes: Steady hand (1410) PvP Roll Season 12, 120 Meta MAX AIMASSIST Moving/Iron Gaze
-dimwishlist:item=2220884262&perks=1561002382,588594999,4152709778,2697220197
+// Season of the Choosen (13)
+// ★ Handcannons ★
+// The Palindrome (140RPM HC)
+dimwishlist:item=432476743&perks=2450788523,3425386926#notes: (PvP Pick) Killing Wind + Rampage (2/4) ★
+dimwishlist:item=432476743&perks=2846385770#notes: (PvP Pick) Rangefinder (1/4) ★
+dimwishlist:item=432476743&perks=4049631843#notes: (PvE Pick) OFA (1/4) ★
+dimwishlist:item=432476743&perks=4252909580,2846385770#notes: (PvP Pick) Bottomless grief + Rangefinder (2/4) ★★
+dimwishlist:item=432476743&perks=3643424744,2846385770#notes: (PvP Pick) Overflow + Rangefinder (2/4) ★★
+dimwishlist:item=432476743&perks=3643424744,4049631843#notes: (PvE Pick) overflow + OFA (2/4) ★★
+dimwishlist:item=432476743&perks=1087426260,3643424744,4049631843#notes: (PvE Pick) appended + overflow + OFA (3/4) ★★★
+dimwishlist:item=432476743&perks=2450788523,2846385770#notes: (PvP Pick) KW + RF (2/4) ★★★
+dimwishlist:item=432476743&perks=706527188,2846385770#notes: (PvP Pick) QD + RF (2/4) ★★★
+dimwishlist:item=432476743&perks=1561002382,2450788523,2846385770#notes: (PvP Pick) High cal with killing wind and RF (3/4) ★★★★
+dimwishlist:item=432476743&perks=1885400500,2450788523,2846385770#notes: (PvP Pick) Ricochet with killing wind and RF (3/4) ★★★★
+dimwishlist:item=432476743&perks=3250034553,1561002382,2450788523,2846385770#notes: (PvP Pick) hammer + high call with killing wind and RF (4/4) ★★★★★
+dimwishlist:item=432476743&perks=202670084,1561002382,2450788523,2846385770#notes: (PvP Pick) full bore + high call with killing wind and RF (4/4) ★★★★★
+dimwishlist:item=432476743&perks=202670084,1561002382,2450788523,2846385770#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=432476743&perks=3250034553,1561002382,2450788523,2846385770#notes: ★★★★★ (PvP God Roll) ★★★★★
 
-// PvP Auto Rifles
-//notes: Arc Logic (Legacy Item) PvP God Roll, MAX RANGE
-dimwishlist:item=2723909519&perks=3250034553,3142289711,588594999,2846385770,2697220197
 
-// PvP 140 HC
-//notes: Ancient Gospel (1410) PvP MAX RANGE Rapid Hit/Rangefinder OR Outlaw/Kill Clip
-dimwishlist:item=48643186&perks=202670084,3142289711,247725512,2846385770,2697220197
-dimwishlist:item=48643186&perks=202670084,3142289711,1168162263,1015611457,2697220197
-//notes: Nation of beasts (1410) PvP MAX RANGE Outlaw/Kill Clip
-dimwishlist:item=654370424&perks=202670084,3142289711,1168162263,1015611457,2697220197
-//notes: Nation of beasts (1410) PvP MAX RANGE Opening Shot/Rampage
-dimwishlist:item=654370424&perks=202670084,3142289711,47981717,3425386926,2697220197
+// Bottom Dollar (120RPM HC)
+dimwishlist:item=1046651176&perks=1683379515#notes: iba disruption break
+dimwishlist:item=1046651176&perks=1354429876,1683379515#notes: fourtime + disruption 
+dimwishlist:item=1046651176&perks=3436462433,2213355989#notes: surplus highimpact 
+dimwishlist:item=1046651176&perks=3436462433,47981717#notes: surplus opening 
+dimwishlist:item=1046651176&perks=247725512,1683379515#notes: rapid + disruption ★
+dimwishlist:item=1046651176&perks=3436462433,3425386926#notes: surplus rampage ★
+dimwishlist:item=1046651176&perks=3436462433,2848615171#notes: surplus dragonfly ★
+dimwishlist:item=1046651176&perks=3436462433,3038247973#notes: surplus explosive ★
+dimwishlist:item=1046651176&perks=3436462433,1683379515#notes: surplus + disruption ★★
+dimwishlist:item=1046651176&perks=3436462433,3592538738#notes: surplus + welspring ★★
+dimwishlist:item=1046651176&perks=3436462433,2458213969#notes: surplus + multikillclip ★★
+dimwishlist:item=1046651176&perks=2846385770,47981717#notes: rangefinder + opening ★★
+dimwishlist:item=1046651176&perks=202670084,3142289711,247725512,3425386926#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=1046651176&perks=3250034553,3142289711,247725512,3425386926#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=1046651176&perks=3250034553,3142289711,247725512,3425386926#notes: (PvP Pick) acurized rapid rampage (3/4) ★★★★
+dimwishlist:item=1046651176&perks=247725512,3425386926#notes: (PvP Pick) rapid rampage (2/4) ★★★
+dimwishlist:item=1046651176&perks=2450788523,3425386926#notes: killingw + rampage ★★★
+dimwishlist:item=1046651176&perks=247725512,2458213969#notes: rapid + multikill ★★★
+dimwishlist:item=1046651176&perks=2846385770,3038247973#notes: rangefinder + explosive ★★★
 
-// PvP 180 HC
-//notes: Posterity (1410) PvP MAX RANGE Killing Wind/Rampage
-dimwishlist:item=3281285075&perks=202670084,3142289711,2450788523,3425386926,2697220197
+// Igneous Hammer (120RPM HC)
+dimwishlist:item=2351180975&perks=1264398905#notes: celer
+dimwishlist:item=2351180975&perks=3425386926#notes: ramp
+dimwishlist:item=2351180975&perks=4049631843#notes: ofa
+dimwishlist:item=2351180975&perks=957782887#notes: snap
+dimwishlist:item=2351180975&perks=588594999#notes: moving
+dimwishlist:item=2351180975&perks=706527188,957782887#notes: qd + snapshot
+dimwishlist:item=2351180975&perks=2450788523,3425386926#notes: killing + rampage
+dimwishlist:item=2351180975&perks=2450788523,957782887#notes: killing + snapshot
+dimwishlist:item=2351180975&perks=2450788523,588594999#notes: killing + moving
+dimwishlist:item=2351180975&perks=247725512,3425386926#notes: rapid + rampage
+dimwishlist:item=2351180975&perks=247725512,957782887#notes: rapid + snapshot
+dimwishlist:item=2351180975&perks=247725512,4049631843#notes: rapid + ofa
+dimwishlist:item=2351180975&perks=1561002382,247725512,3425386926#notes: highcall rapid rampage
+dimwishlist:item=2351180975&perks=3250034553,1561002382,247725512,3425386926#notes: hammer highcall rapid rampage
+dimwishlist:item=2351180975&perks=202670084,1561002382,247725512,3425386926#notes: fullbore highcall rapid rampage
