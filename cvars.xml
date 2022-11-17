@@ -5,7 +5,7 @@
 		<cvar name="force_enable_multi_threaded_render_submit" value="0" />
 		<cvar name="window_position_x" value="8" />
 		<cvar name="window_position_y" value="31" />
-		<cvar name="window_mode" value="2" /> <!-- 2 - windows fullscreen, 3 - fullscreen  -->
+		<cvar name="window_mode" value="3" />
 		<cvar name="anti_aliasing_mode" value="0" />
 		<cvar name="dof_mode" value="1" />
 		<cvar name="ssao_mode" value="0" />
@@ -38,8 +38,8 @@
 		<cvar name="interact" value="e!unused" />
 		<cvar name="fire" value="left mouse button!unused" />
 		<cvar name="hold_zoom" value="right mouse button!unused" />
-		<cvar name="melee_uncharged" value="v!unused" />
-		<cvar name="melee_charged" value="extra mouse button 1!unused" />
+		<cvar name="melee_uncharged" value="extra mouse button 1!unused" />
+		<cvar name="melee_charged" value="v!unused" />
 		<cvar name="grenade" value="extra mouse button 2!unused" />
 		<cvar name="super" value="f!unused" />
 		<cvar name="reload" value="r!unused" />
@@ -54,43 +54,40 @@
 		<cvar name="move_backward" value="s!unused" />
 		<cvar name="move_left" value="a!unused" />
 		<cvar name="move_right" value="d!unused" />
-		<cvar name="jump" value="space!mouse wheel up" />
+		<cvar name="jump" value="space!mouse wheel down" />
 		<cvar name="toggle_crouch" value="control!unused" />
 		<cvar name="hold_crouch" value="c!unused" />
 		<cvar name="toggle_sprint" value="shift!unused" />
 		<cvar name="air_move" value="z!unused" />
 		<cvar name="class_ability" value="x!unused" />
-		<cvar name="stasis_breakout" value="space!mouse wheel up" />
-
-		<cvar name="vehicle_boost" value="right mouse button!unused" />
+		<cvar name="stasis_breakout" value="mouse wheel up!mouse wheel down" />
+		<cvar name="vehicle_boost" value="shift!unused" />
 		<cvar name="vehicle_brake" value="space!unused" />
-		<cvar name="vehicle_zoom" value="right mouse button!unused" />
-		<cvar name="vehicle_dodge_left" value="extra mouse 1!unused" />
-		<cvar name="vehicle_dodge_right" value="extra mouse 2!unused" />
+		<cvar name="vehicle_zoom" value="q!unused" />
+		<cvar name="vehicle_dodge_left" value="extra mouse button 2!unused" />
+		<cvar name="vehicle_dodge_right" value="extra mouse button 1!unused" />
 		<cvar name="vehicle_fire_primary" value="left mouse button!unused" />
-		<cvar name="vehicle_fire_secondary" value="shift!unused" />
+		<cvar name="vehicle_fire_secondary" value="right mouse button!unused" />
 		<cvar name="vehicle_exit" value="e!unused" />
-		
 		<cvar name="highlight_player" value="middle mouse button!unused" />
-		<cvar name="emote_1" value="up!5" />
-		<cvar name="emote_2" value="down!6" />
-		<cvar name="emote_3" value="left!7" />
-		<cvar name="emote_4" value="right!8" />
+		<cvar name="emote_1" value="up!4" />
+		<cvar name="emote_2" value="down!5" />
+		<cvar name="emote_3" value="left!6" />
+		<cvar name="emote_4" value="right!7" />
 		<cvar name="death_cam_zoom_in" value="mouse wheel up!unused" />
 		<cvar name="death_cam_zoom_out" value="mouse wheel down!unused" />
 		<cvar name="push_to_talk" value="t!unused" />
 		<cvar name="ui_gamepad_button_back" value="tab!unused" />
 		<cvar name="ui_open_director" value="m!unused" />
 		<cvar name="ui_open_director_mtx_tab" value="unused!unused" />
-		<cvar name="ui_open_director_pursuits_tab" value="o!unused" />
+		<cvar name="ui_open_director_pursuits_tab" value="u!unused" />
 		<cvar name="ui_open_director_map_tab" value="unused!unused" />
 		<cvar name="ui_open_director_destinations_tab" value="unused!unused" />
-		<cvar name="ui_open_director_roster_tab" value="u!unused" />
+		<cvar name="ui_open_director_roster_tab" value="o!unused" />
 		<cvar name="ui_open_director_seasons_tab" value="p!unused" />
 		<cvar name="ui_open_start_menu_alternative" value="i!unused" />
 		<cvar name="ui_abort_activity" value="backspace!unused" />
 		<cvar name="ui_text_chat_toggle_state" value="g!unused" />
-
 		<cvar name="screenshot" value="unused!unused" />
 		<cvar name="hold_sprint" value="unused!unused" />
 		<cvar name="next_weapon" value="unused!unused" />
