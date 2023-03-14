@@ -1,6 +1,49 @@
-title: Peterko, 2023-03-14
+title: Season of Defiance Peterko, 2023-03-14
 
-// Season of the Defiance 
-// Machine Gun: CIRCULAR LOGIC
-dimwishlist:item=2187717691&perks=3250034553,1885400500,3619207468,365154968,164468655#notes: ★★★★★ (PvE God Roll) ★★★★★
-dimwishlist:item=2187717691&perks=3619207468,365154968,164468655#notes: ★★ Keep Away + Target Lock ★★
+// Machine Gun: Circular logic
+dimwishlist:item=2187717691&perks=3250034553,1885400500,3619207468,365154968#notes: ★★★★★ (PvE God Roll) ★★★★★
+dimwishlist:item=2187717691&perks=3619207468,365154968#notes: ★★ Keep Away + Target Lock ★★
+
+//  Autorifle: Coronach-22
+dimwishlist:item=355382946&perks=839105230,1885400500,3436462433,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=355382946&perks=3436462433,365154968#notes: ★★ Surplus  + Target Lock ★★
+
+//  Slug Shotgun: Gunnoras axe
+dimwishlist:item=411397829&perks=1840239774,1885400500,1866048759,47981717#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=411397829&perks=1866048759,47981717#notes: ★★ Hipfire grip + Opening shot ★★
+
+// Hand cannon: Exalted Truth + Adept
+dimwishlist:item=548809020&perks=3250034553,3142289711,2846385770#notes: ★★ Hammerforged, Accurized Rounds + Rangefinder ★★
+dimwishlist:item=1705843397&perks=3250034553,3142289711,2846385770#notes: ★★ Hammerforged, Accurized Rounds + Rangefinder ★★
+
+// SMG: Synchronic roulette
+dimwishlist:item=811403305&perks=3250034553,1885400500,3619207468,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=811403305&perks=202670084,1885400500,3619207468,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+// Machine Gun: Unwavering duty + Adept
+dimwishlist:item=906840740&perks=1820235745,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
+dimwishlist:item=906840740&perks=2869569095,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
+dimwishlist:item=3444632029&perks=1820235745,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
+dimwishlist:item=3444632029&perks=2869569095,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
+// Sidearm: Buzzard Adept
+dimwishlist:item=927835311&perks=202670084,1885400500,1428297954,2846385770#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+BITE OF THE FOX
+dimwishlist:item=1403800851&perks=1840239774,3142289711,957782887,47981717#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+MINDBENDERS AMBITION Adept
+dimwishlist:item=2074041946&perks=466087222,3142289711,3436462433,4293542123#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+THE MILITIAS BIRTHRIGHT ADEPT
+dimwishlist:item=4162642204&perks=3032599245,1556840489,3300816228#notes: ★★★★★ (PvE God Roll) ★★★★★
+
+THE IMMORTAL + Adept
+dimwishlist:item=4039572196&perks=2846385770,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=3193598749&perks=2846385770,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+ALLIED DEMAND
+dimwishlist:item=3166250992&perks=3250034553,1885400500,2846385770,591790007#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+HUNG JURY SR4 ADEPT
+dimwishlist:item=2883684343&perks=247725512,3891536761#notes: ★★★★★ (PvE God Roll) ★★★★★
+dimwishlist:item=2883684343&perks=3142289711,2866798147,2551157718#notes: ★★★★★ (PvP God Roll) ★★★★★
