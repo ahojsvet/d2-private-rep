@@ -21,6 +21,7 @@ dimwishlist:item=355382946&perks=3436462433,365154968#notes: ★★ Surplus  + T
 // Hand cannon: Exalted Truth + Adept
 dimwishlist:item=548809020&perks=3250034553,3142289711,2846385770#notes: ★★ Hammerforged, Accurized Rounds + Rangefinder ★★
 dimwishlist:item=1705843397&perks=3250034553,3142289711,2846385770#notes: ★★ Hammerforged, Accurized Rounds + Rangefinder ★★
+dimwishlist:item=548809020&perks=1840239774,3142289711,2846385770,699525795,4008116374#notes: ★★★★★ (PvP God Roll) ★★★★★
 
 // Machine Gun: Unwavering duty + Adept
 dimwishlist:item=906840740&perks=1820235745,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
