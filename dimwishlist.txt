@@ -1,5 +1,51 @@
-title: Season of Defiance Peterko, 2023-03-14
+title: Season of Deep Peterko, 2023-05-26
 
+// ----------------- //
+// SEASON 21 WEAPONS
+// ----------------- //
+    // CRAFTABLE
+// SNIPER RIFLE: A DISTANT PULL
+dimwishlist:item=1769847435&perks=3619207468,3978468247#notes: ★★★ PvP Roll ★★★
+dimwishlist:item=1769847435&perks=3250034553,3142289711,3619207468,3978468247#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+// SMG: RAPACIOUS APPETITE
+dimwishlist:item=1081724548&perks=3661387068,1885400500,848860060,2939589096#notes: ★★★★★ (PvE God Roll) ★★★★★
+dimwishlist:item=1081724548&perks=848860060,2939589096#notes: ★★★ PvE Roll ★★★
+
+// SHOTGUN: UNTIL ITS RETURN
+dimwishlist:item=2883484461&perks=3300816228,3751912585#notes: ★★★ PvE Roll ★★★
+
+// PULSE RIFLE:DIFFERENT TIMES
+dimwishlist:item=3016891299&perks=839105230,1885400500,2717805783,4045335048#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=3016891299&perks=2717805783,4045335048#notes: ★★★ PvP Roll ★★★
+
+// HAND CANNON:
+dimwishlist:item=3890055324&perks=1840239774,3142289711,2139363611,3198323828#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=3890055324&perks=2139363611,3198323828#notes: ★★★ PvP Roll ★★★
+dimwishlist:item=3890055324&perks=1840239774,3142289711,2139363611,64866129#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=3890055324&perks=2139363611,64866129#notes: ★★★ PvP Roll ★★★
+
+    // NON CRAFTABLE
+// SCOUT RIFLE: GLISSANDO-47
+dimwishlist:item=222606050&perks=2866798147,2551157718#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+// PULSE RIFLE: OUTLAST
+dimwishlist:item=1678205741&perks=839105230,1885400500,3619207468,1015611457#notes: ★★★ PvP Roll ★★★
+dimwishlist:item=1678205741&perks=,3619207468,1015611457#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+// SMG: BUG-OUT BAG
+dimwishlist:item=2832639510&perks=202670084,1885400500,1428297954,2451262963#notes: ★★★ PvP Roll ★★★
+dimwishlist:item=2832639510&perks=1428297954,2451262963#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+// HAND CANNON: SPARE RATIONS
+dimwishlist:item=3236112986&perks=202670084,1885400500,3161816588,47981717#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+// SHOTGUN: LAST-MAN STANDING
+dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,3978468247#notes: ★★★★★ (PvP God Roll) ★★★★★
+
+// ----------------- //
+// SEASON 20 WEAPONS
+// ----------------- //
 // HARSH LANGUAGE
 dimwishlist:item=1606497639&perks=968510818,2048641572
 dimwishlist:item=1606497639&perks=968510818,776531651
