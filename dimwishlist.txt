@@ -3,6 +3,16 @@ title: Season of Deep Peterko, 2023-05-26
 // ----------------- //
 // SEASON 21 WEAPONS
 // ----------------- //
+
+DIRE PROMISE
+dimwishlist:item=2742838701&perks=1926090092,1561002382,47981717,2846385770
+
+SPARE RATIONS
+dimwishlist:item=3236112986&perks=3250034553,1561002382,957782887,47981717
+
+JUDGMENT
+dimwishlist:item=1476654960&perks=1926090095,3142289711,3161816588,47981717
+
     // CRAFTABLE
 // SNIPER RIFLE: A DISTANT PULL
 dimwishlist:item=1769847435&perks=3619207468,3978468247#notes: ★★★ PvP Roll ★★★
