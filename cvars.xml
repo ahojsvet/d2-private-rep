@@ -5,11 +5,12 @@
 		<cvar name="force_enable_multi_threaded_render_submit" value="0" />
 		<cvar name="window_position_x" value="8" />
 		<cvar name="window_position_y" value="31" />
-		<cvar name="window_mode" value="3" />
+		<cvar name="window_mode" value="2" />
+		<!-- 2 - windows fullscreen, 3 - fullscreen  -->
 		<cvar name="anti_aliasing_mode" value="0" />
-		<cvar name="dof_mode" value="1" />
+		<cvar name="dof_mode" value="0" />
 		<cvar name="ssao_mode" value="0" />
-		<cvar name="shadow_quality" value="0" />
+		<cvar name="shadow_quality" value="1" />
 		<cvar name="environment_detail" value="0" />
 		<cvar name="character_detail" value="0" />
 		<cvar name="texture_quality" value="4" />
@@ -22,30 +23,30 @@
 		<cvar name="hdr_output" value="1" />
 		<cvar name="atmosphere_lighting_detail" value="0" />
 		<cvar name="master" value="0" />
-		<cvar name="framerate_cap_enabled" value="0" />
+		<cvar name="framerate_cap_enabled" value="1" />
 		<cvar name="low_latency_mode" value="0" />
 		<cvar name="fullscreen_resolution_width" value="1920" />
 		<cvar name="fullscreen_resolution_height" value="1080" />
 		<cvar name="fullscreen_refresh_rate_numerator" value="74973" />
 		<cvar name="fullscreen_refresh_rate_denominator" value="1000" />
-		<cvar name="windowed_resolution_width" value="1280" />
-		<cvar name="windowed_resolution_height" value="720" />
+		<cvar name="windowed_resolution_width" value="1920" />
+		<cvar name="windowed_resolution_height" value="1080" />
 		<cvar name="render_resolution_percentage" value="100" />
-		<cvar name="framerate_cap" value="200" />
+		<cvar name="framerate_cap" value="75" />
 		<cvar name="version" value="3" />
 	</namespace>
 	<namespace name="key bindings">
 		<cvar name="interact" value="e!unused" />
 		<cvar name="fire" value="left mouse button!unused" />
 		<cvar name="hold_zoom" value="right mouse button!unused" />
-		<cvar name="melee_uncharged" value="extra mouse button 1!unused" />
+		<cvar name="melee_uncharged" value="extra mouse button 2!unused" />
 		<cvar name="melee_charged" value="v!unused" />
-		<cvar name="grenade" value="extra mouse button 2!unused" />
+		<cvar name="grenade" value="extra mouse button 1!unused" />
 		<cvar name="super" value="f!unused" />
 		<cvar name="reload" value="r!unused" />
 		<cvar name="light_attack" value="left mouse button!unused" />
 		<cvar name="heavy_attack" value="right mouse button!unused" />
-		<cvar name="block" value="extra mouse button 1!unused" />
+		<cvar name="block" value="extra mouse button 2!unused" />
 		<cvar name="switch_weapons" value="q!unused" />
 		<cvar name="primary_weapon" value="1!unused" />
 		<cvar name="special_weapon" value="2!unused" />
@@ -60,15 +61,15 @@
 		<cvar name="toggle_sprint" value="shift!unused" />
 		<cvar name="air_move" value="z!unused" />
 		<cvar name="class_ability" value="x!unused" />
-		<cvar name="stasis_breakout" value="mouse wheel up!mouse wheel down" />
-		<cvar name="vehicle_boost" value="shift!unused" />
-		<cvar name="vehicle_brake" value="space!unused" />
+		<cvar name="stasis_breakout" value="space!mouse wheel up" />
+		<cvar name="vehicle_boost" value="right mouse button!unused" />
+		<cvar name="vehicle_brake" value="shift!unused" />
 		<cvar name="vehicle_zoom" value="q!unused" />
 		<cvar name="vehicle_dodge_left" value="extra mouse button 2!unused" />
 		<cvar name="vehicle_dodge_right" value="extra mouse button 1!unused" />
 		<cvar name="vehicle_fire_primary" value="left mouse button!unused" />
-		<cvar name="vehicle_fire_secondary" value="right mouse button!unused" />
-		<cvar name="vehicle_exit" value="e!unused" />
+		<cvar name="vehicle_fire_secondary" value="e!unused" />
+		<cvar name="vehicle_exit" value="space!unused" />
 		<cvar name="highlight_player" value="middle mouse button!unused" />
 		<cvar name="emote_1" value="up!4" />
 		<cvar name="emote_2" value="down!5" />
@@ -84,10 +85,10 @@
 		<cvar name="ui_open_director_map_tab" value="unused!unused" />
 		<cvar name="ui_open_director_destinations_tab" value="unused!unused" />
 		<cvar name="ui_open_director_roster_tab" value="o!unused" />
-		<cvar name="ui_open_director_seasons_tab" value="p!unused" />
-		<cvar name="ui_open_start_menu_alternative" value="i!unused" />
+		<cvar name="ui_open_director_seasons_tab" value="unused!unused" />
+		<cvar name="ui_open_start_menu_alternative" value="unused!unused" />
 		<cvar name="ui_abort_activity" value="backspace!unused" />
-		<cvar name="ui_text_chat_toggle_state" value="g!unused" />
+		<cvar name="ui_text_chat_toggle_state" value="b!unused" />
 		<cvar name="screenshot" value="unused!unused" />
 		<cvar name="hold_sprint" value="unused!unused" />
 		<cvar name="next_weapon" value="unused!unused" />
@@ -97,8 +98,8 @@
 		<cvar name="ui_open_start_menu_records_tab" value="unused!unused" />
 		<cvar name="ui_open_start_menu_collections_tab" value="unused!unused" />
 		<cvar name="ui_open_start_menu_clan_tab" value="unused!unused" />
-		<cvar name="ui_open_start_menu_inventory_tab" value="unused!unused" />
-		<cvar name="ui_open_start_menu_settings_tab" value="unused!unused" />
+		<cvar name="ui_open_start_menu_inventory_tab" value="i!unused" />
+		<cvar name="ui_open_start_menu_settings_tab" value="p!unused" />
 		<cvar name="ui_open_exit_dialog_confirm" value="unused!unused" />
 	</namespace>
 	<namespace name="audio">
@@ -106,6 +107,6 @@
 		<cvar name="cached_sfx_volume" value="7" />
 	</namespace>
 	<namespace name="gameplay">
-		<cvar name="mouse_smoothing_mode" value="2" />
+		<cvar name="mouse_smoothing_mode" value="0" />
 	</namespace>
 </body>
