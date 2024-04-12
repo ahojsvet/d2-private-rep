@@ -22,3 +22,23 @@ dimwishlist:item=1896309757&perks=3425386926,95528736#notes: ⭐⭐⭐ (PvE God 
 // FALLING GUILLOTINE
 dimwishlist:item=1815105249&perks=269888150,2396489472,2077819806#notes: ⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐
 dimwishlist:item=243425374&perks=269888150,2396489472,2077819806#notes: ⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐
+
+// FORBEARANCE
+dimwishlist:item=568611921&perks=2822142346,3523296417,2396489472#notes: ⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐
+dimwishlist:item=2480074702&perks=2822142346,3523296417,2396489472#notes: ⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐
+
+// THE MOUNTAINTOP
+dimwishlist:item=568611922&perks=3301904089,3300816228,1546637391#notes: ⭐⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐⭐
+dimwishlist:item=4043921923&perks=3301904089,3300816228,1546637391#notes: ⭐⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐⭐
+
+// SUCCESSION
+dimwishlist:item=3612338554&perks=3978468247,957782887#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=570866107&perks=3978468247,957782887#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=3612338554&perks=1840239774,3177308360,3978468247,957782887#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+dimwishlist:item=570866107&perks=1840239774,3177308360,3978468247,957782887#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+
+// THE RECLUSE
+dimwishlist:item=1050806815&perks=776531651,2048641572#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=3098328572&perks=776531651,2048641572#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=3098328572&perks=202670084,1885400500,4071163871,3081867624#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+dimwishlist:item=1050806815&perks=202670084,1885400500,4071163871,3081867624#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
