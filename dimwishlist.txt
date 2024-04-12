@@ -42,3 +42,35 @@ dimwishlist:item=1050806815&perks=776531651,2048641572#notes: ⭐⭐⭐ (PvE God
 dimwishlist:item=3098328572&perks=776531651,2048641572#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
 dimwishlist:item=3098328572&perks=202670084,1885400500,4071163871,3081867624#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
 dimwishlist:item=1050806815&perks=202670084,1885400500,4071163871,3081867624#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+
+// 🔰BLAST FURNACE
+dimwishlist:item=2372514508&perks=460017080,247725512#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=2533990645&perks=460017080,247725512#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+dimwishlist:item=2533990645&perks=839105230,3142289711,460017080,247725512#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+
+// 🔰ELSIE'S RIFLE
+dimwishlist:item=3851176026&perks=2387244414,460017080#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=2372514509&perks=2387244414,460017080#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,460017080#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+dimwishlist:item=2372514509&perks=1870851715,4104185692#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=3851176026&perks=1870851715,4104185692#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+
+// 🔰MIDNIGHT COUP
+dimwishlist:item=2763843898&perks=3038247973,3891536761#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=2499720827&perks=3038247973,3891536761#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=2499720827&perks=3700496672,3891536761#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=2763843898&perks=3700496672,3891536761#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=2763843898&perks=3038247973,2387244414#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=2499720827&perks=3038247973,2387244414#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=2499720827&perks=3142289711,3038247973,2387244414#notes: ⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐
+dimwishlist:item=2763843898&perks=3142289711,3038247973,2387244414#notes: ⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐
+
+// 🔰LUNA'S HOWL
+dimwishlist:item=3757612024&perks=3017780555,4293542123#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=2763843899&perks=3017780555,4293542123#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=3757612024&perks=3017780555,2720533289
+dimwishlist:item=2763843899&perks=3017780555,2720533289
+dimwishlist:item=3757612024&perks=3250034553,1885400500,3017780555,2720533289#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3017780555,2720533289#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
