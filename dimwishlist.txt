@@ -1,164 +1,24 @@
-title: Season of Deep Peterko, 2023-05-26
+title: Season of the Wish by Peterko, 2023-05-26
+#notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
+#notes: ⭐⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐⭐
 
-// ----------------- //
-// SEASON 21 WEAPONS
-// ----------------- //
+// TUSK OF THE BOAR
+dimwishlist:item=1218113510&perks=923806249,2396489472#notes: ⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐
 
-DIRE PROMISE
-dimwishlist:item=2742838701&perks=1926090092,1561002382,47981717,2846385770
+// HUNG JURY SR4
+dimwishlist:item=205225492&perks=3891536761,3038247973#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=1453235079&perks=3891536761,3038247973#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
 
-SPARE RATIONS
-dimwishlist:item=3236112986&perks=3250034553,1561002382,957782887,47981717
+dimwishlist:item=205225492&perks=2866798147,2551157718#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=1453235079&perks=2866798147,2551157718#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
 
-JUDGMENT
-dimwishlist:item=1476654960&perks=1926090095,3142289711,3161816588,47981717
+// HAMMERHEAD
+dimwishlist:item=1896309757&perks=1870851715,2213355989#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
+dimwishlist:item=211732170&perks=1870851715,2213355989#notes: ⭐⭐⭐ (PvP God Roll) ⭐⭐⭐
 
-    // CRAFTABLE
-// SNIPER RIFLE: A DISTANT PULL
-dimwishlist:item=1769847435&perks=3619207468,3978468247#notes: ★★★ PvP Roll ★★★
-dimwishlist:item=1769847435&perks=3250034553,3142289711,3619207468,3978468247#notes: ★★★★★ (PvP God Roll) ★★★★★
+dimwishlist:item=211732170&perks=3425386926,95528736#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
+dimwishlist:item=1896309757&perks=3425386926,95528736#notes: ⭐⭐⭐ (PvE God Roll) ⭐⭐⭐
 
-// SMG: RAPACIOUS APPETITE
-dimwishlist:item=1081724548&perks=3661387068,1885400500,848860060,2939589096#notes: ★★★★★ (PvE God Roll) ★★★★★
-dimwishlist:item=1081724548&perks=848860060,2939589096#notes: ★★★ PvE Roll ★★★
-
-// SHOTGUN: UNTIL ITS RETURN
-dimwishlist:item=2883484461&perks=3300816228,3751912585#notes: ★★★ PvE Roll ★★★
-
-// PULSE RIFLE:DIFFERENT TIMES
-dimwishlist:item=3016891299&perks=839105230,1885400500,2717805783,4045335048#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=3016891299&perks=2717805783,4045335048#notes: ★★★ PvP Roll ★★★
-
-// HAND CANNON:
-dimwishlist:item=3890055324&perks=1840239774,3142289711,2139363611,3198323828#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=3890055324&perks=2139363611,3198323828#notes: ★★★ PvP Roll ★★★
-dimwishlist:item=3890055324&perks=1840239774,3142289711,2139363611,64866129#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=3890055324&perks=2139363611,64866129#notes: ★★★ PvP Roll ★★★
-
-    // NON CRAFTABLE
-// SCOUT RIFLE: GLISSANDO-47
-dimwishlist:item=222606050&perks=2866798147,2551157718#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// PULSE RIFLE: OUTLAST
-dimwishlist:item=1678205741&perks=839105230,1885400500,3619207468,1015611457#notes: ★★★ PvP Roll ★★★
-dimwishlist:item=1678205741&perks=,3619207468,1015611457#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// SMG: BUG-OUT BAG
-dimwishlist:item=2832639510&perks=202670084,1885400500,1428297954,2451262963#notes: ★★★ PvP Roll ★★★
-dimwishlist:item=2832639510&perks=1428297954,2451262963#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// HAND CANNON: SPARE RATIONS
-dimwishlist:item=3236112986&perks=202670084,1885400500,3161816588,47981717#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// SHOTGUN: LAST-MAN STANDING
-dimwishlist:item=4287947559&perks=4090651448,791862061,4071163871,3978468247#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// ----------------- //
-// SEASON 20 WEAPONS
-// ----------------- //
-// HARSH LANGUAGE
-dimwishlist:item=1606497639&perks=968510818,2048641572
-dimwishlist:item=1606497639&perks=968510818,776531651
-
-// Pulse: AUTUMN WIND
-dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,460017080#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=3110377595&perks=2846385770,460017080#notes: ★★ RangeFinder + Headseeker ★★
-
-// Machine Gun: Circular logic
-dimwishlist:item=2187717691&perks=839105230,968510818,365154968#notes: ★★★★★ (PvE God Roll) ★★★★★
-dimwishlist:item=2187717691&perks=2779035018,831391274#notes: ★★ Feeding Frenzy + Hatchling ★★
-dimwishlist:item=2187717691&perks=968510818,365154968#notes: ★★ Envious Assassin + Target Lock ★★
-
-//  Autorifle: Coronach-22
-dimwishlist:item=355382946&perks=839105230,1885400500,3436462433,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=355382946&perks=3436462433,365154968#notes: ★★ Surplus  + Target Lock ★★
-
-// Trials of Osiris
-// Hand cannon: Exalted Truth + Adept
-dimwishlist:item=548809020&perks=3250034553,3142289711,2846385770#notes: ★★ Hammerforged, Accurized Rounds + Rangefinder ★★
-dimwishlist:item=1705843397&perks=3250034553,3142289711,2846385770#notes: ★★ Hammerforged, Accurized Rounds + Rangefinder ★★
-dimwishlist:item=548809020&perks=1840239774,3142289711,2846385770,699525795,4008116374#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// Machine Gun: Unwavering duty + Adept
-dimwishlist:item=906840740&perks=1820235745,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
-dimwishlist:item=906840740&perks=2869569095,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
-dimwishlist:item=3444632029&perks=1820235745,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
-dimwishlist:item=3444632029&perks=2869569095,4293542123#notes: ★★★★★ (PvE God Roll) ★★★★★
-
-// SMG: THE IMMORTAL + Adept
-dimwishlist:item=4039572196&perks=2846385770,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=3193598749&perks=2846385770,365154968#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// IRON BANNER GUNS
-// Sniper: BITE OF THE FOX
-dimwishlist:item=1403800851&perks=1840239774,3142289711,957782887,47981717#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=1403800851&perks=957782887,47981717#notes: ★★ Opening Shot + Snapshot ★★
-
-// Sidearm: ALLIED DEMAND
-dimwishlist:item=1532276803&perks=3142289711,2846385770#notes: ★★ Accurized rounds + Rangefinder ★★
-dimwishlist:item=1532276803&perks=3142289711,2846385770,1870851715#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// Slug Shotgun: Gunnoras axe
-dimwishlist:item=411397829&perks=1840239774,1885400500,1866048759,47981717#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=411397829&perks=1866048759,47981717#notes: ★★ Hipfire grip + Opening shot ★★
-
-// THE HERO'S BURDEN
-dimwishlist:item=1028124540&perks=202670084,3142289711,2387244414,1015611457#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=1028124540&perks=3250034553,3142289711,2387244414,1015611457#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=1028124540&perks=3142289711,2387244414,1015611457#notes: ★★ Zen Moment + killclip ★★
-dimwishlist:item=1028124540&perks=2779035018,2048641572#notes: ★★ feeding frenzy + destabilizing ★★
-
-// JORUM'S CLAW
-dimwishlist:item=62937067&perks=839105230,1195158366,1015611457#notes: ★★★★★ (PvP God Roll) ★★★★★
-dimwishlist:item=62937067&perks=1195158366,1015611457#notes: ★★ Encore + killclip ★★
-
-// Fusion: THE WIZENED REBUKE
-dimwishlist:item=2290416&perks=2416023159,2652708987#notes: ★★ Offhand Strike + Successful warm-up ★★
-
-// NIGHTFALL
-// Scout: HUNG JURY SR4 ADEPT
-dimwishlist:item=2883684343&perks=247725512,3891536761#notes: ★★★★★ (PvE God Roll) ★★★★★
-dimwishlist:item=2883684343&perks=3142289711,2866798147,2551157718#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// Shotgun: MINDBENDERS AMBITION Adept
-dimwishlist:item=2074041946&perks=466087222,3142289711,3436462433,4293542123#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// GrenadeLauncher: THE MILITIAS BIRTHRIGHT ADEPT
-dimwishlist:item=4162642204&perks=3032599245,1556840489,3300816228#notes: ★★★★★ (PvE God Roll) ★★★★★
-
-// Sidearm: Buzzard Adept
-dimwishlist:item=927835311&perks=202670084,1885400500,1428297954,2846385770#notes: ★★★★★ (PvP God Roll) ★★★★★
-
-// Gambit Weapons
-// Sniper: ALBRUNA-D
-dimwishlist:item=676270382&perks=1840239774,3142289711,3511092054,47981717
-dimwishlist:item=676270382&perks=3511092054,47981717
-dimwishlist:item=676270382&perks=2866798147,957782887
-dimwishlist:item=676270382&perks=1840239774,2420895100,3400784728,1771339417
-dimwishlist:item=676270382&perks=2420895100,3400784728,1771339417
-dimwishlist:item=676270382&perks=3400784728,1771339417
-
-// SMG:BORROWED TIME
-dimwishlist:item=875848769&perks=4071163871,3708227201
-dimwishlist:item=875848769&perks=202670084,1885400500,1359896290,1890422124
-dimwishlist:item=875848769&perks=1885400500,1359896290,1890422124
-dimwishlist:item=875848769&perks=1359896290,1890422124
-dimwishlist:item=875848769&perks=1885400500,3643424744,4104185692
-dimwishlist:item=875848769&perks=3643424744,4104185692
-
-// Handcannon: BOTTOM DOLLAR
-dimwishlist:item=1046651176&perks=3436462433,3038247973
-dimwishlist:item=1046651176&perks=3142289711,3436462433,3038247973
-dimwishlist:item=1046651176&perks=1840239774,3142289711,3436462433,3038247973
-dimwishlist:item=1046651176&perks=1840239774,3142289711,3161816588,3038247973
-dimwishlist:item=1046651176&perks=3142289711,3161816588,3038247973
-dimwishlist:item=1046651176&perks=3161816588,3038247973
-dimwishlist:item=1046651176&perks=3161816588,47981717
-dimwishlist:item=1046651176&perks=3142289711,3161816588,47981717
-dimwishlist:item=1046651176&perks=1840239774,3142289711,3161816588,47981717
-dimwishlist:item=1046651176&perks=1840239774,3142289711,3161816588,699525795
-dimwishlist:item=1046651176&perks=3142289711,3161816588,699525795
-dimwishlist:item=1046651176&perks=3161816588,699525795
-
-// Scout: Servant Leader
-dimwishlist:item=1107446438&perks=1840239774,3177308360,3700496672,4104185692
+// FALLING GUILLOTINE
+dimwishlist:item=1815105249&perks=269888150,2396489472,2077819806#notes: ⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐
+dimwishlist:item=243425374&perks=269888150,2396489472,2077819806#notes: ⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐
