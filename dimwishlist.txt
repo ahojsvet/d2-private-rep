@@ -12,7 +12,10 @@ dimwishlist:item=2809120022&perks=3751917997,1476923955#notes: ⭐Foetracer + St
 # Warlock Class Items
 dimwishlist:item=2273643087&perks=183430253,1476923957#notes: ⭐Osmiomancy + Verity⭐
 dimwishlist:item=2273643087&perks=183430252,1476923956#notes: ⭐Necrotic + Syntho⭐
+dimwishlist:item=2273643087&perks=183430250,1476923955#notes: ⭐Apotheosis + StarEaters⭐
 
 # Titan Class Items
 dimwishlist:item=266021826&perks=3573490510,3573490506#notes: ⭐Abeyant + Horn⭐
 dimwishlist:item=266021826&perks=3573490505,3573490500#notes: ⭐Bear + Armamentarium⭐
+dimwishlist:item=266021826&perks=3573490511,1476923955#notes: ⭐Eternal + StarEaters⭐
+dimwishlist:item=266021826&perks=3573490509,1476923956#notes: ⭐Severance + Syntho⭐
