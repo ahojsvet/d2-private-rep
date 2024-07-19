@@ -1,23 +1,18 @@
-title: Season of the Wish by Peterko, 2024-05-28
+title: Episode Echoes by Peterko, 2024-07-19
 #notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
 #notes: ⭐⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐⭐
-// HAMMERHEAD
-  dimwishlist:item=211732170&perks=2420895100,3425386926,95528736
-// FALLING GUILLOTINE
-  dimwishlist:item=243425374&perks=269888150,2396489472,2077819806,2489430594
-// FORBEARANCE
-  dimwishlist:item=2480074702&perks=1478423395,2822142346,3523296417,2396489472
-// THE MOUNTAINTOP
-  dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
-// SUCCESSION
-  dimwishlist:item=570866107&perks=2420895100,3978468247,3201496230
-// THE RECLUSE
-  dimwishlist:item=3098328572&perks=1885400500,776531651,4104185692
-// 🔰BLAST FURNACE
-  dimwishlist:item=2533990645&perks=1840239774,3177308360,460017080,247725512
-// 🔰ELSIE'S RIFLE
-  dimwishlist:item=3851176026&perks=1885400500,776531651,4104185692
-// 🔰MIDNIGHT COUP
-  dimwishlist:item=2499720827&perks=1392496348,3142289711,3038247973,2387244414
-// 🔰LUNA'S HOWL
-  dimwishlist:item=3757612024&perks=3250034553,1885400500,3161816588,47981717
+
+# Hunter Class items
+dimwishlist:item=2809120022&perks=3751917998,1476923955#notes: ⭐StarEaters + Galanor⭐
+dimwishlist:item=2809120022&perks=3751917996,1476923956#notes: ⭐Caliban + Synthoceps⭐
+dimwishlist:item=2809120022&perks=3751917996,3751917992#notes: ⭐Caliban + Liars⭐
+dimwishlist:item=2809120022&perks=1476923954,3751917991#notes: ⭐Wormhusk + Ophidian⭐
+dimwishlist:item=2809120022&perks=3751917997,1476923955#notes: ⭐Foetracer + StarEaters⭐
+
+# Warlock Class Items
+dimwishlist:item=2273643087&perks=183430253,1476923957#notes: ⭐Osmiomancy + Verity⭐
+dimwishlist:item=2273643087&perks=183430252,1476923956#notes: ⭐Necrotic + Syntho⭐
+
+# Titan Class Items
+dimwishlist:item=266021826&perks=3573490510,3573490506#notes: ⭐Abeyant + Horn⭐
+dimwishlist:item=266021826&perks=3573490505,3573490500#notes: ⭐Bear + Armamentarium⭐
