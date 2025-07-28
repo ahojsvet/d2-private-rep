@@ -1,23 +1,14 @@
-title: Episode Echoes by Peterko, 2024-07-19
+title: Edge of Fate by Peterko, 2025-07-28
 #notes: ⭐⭐⭐⭐⭐ (PvP God Roll) ⭐⭐⭐⭐⭐
 #notes: ⭐⭐⭐⭐⭐ (PvE God Roll) ⭐⭐⭐⭐⭐
 
-# Hunter Class items
-dimwishlist:item=2809120022&perks=3751917998,1476923955#notes: ⭐StarEaters + Galanor⭐
-dimwishlist:item=2809120022&perks=3751917996,1476923956#notes: ⭐Caliban + Synthoceps⭐
-dimwishlist:item=2809120022&perks=3751917996,3751917992#notes: ⭐Caliban + Liars⭐
-dimwishlist:item=2809120022&perks=1476923954,3751917991#notes: ⭐Wormhusk + Ophidian⭐
-dimwishlist:item=2809120022&perks=3751917997,1476923955#notes: ⭐Foetracer + StarEaters⭐
+# Rocket Pulse - Mint Retrograde
+dimwishlist:item=42435996&perks=831391274
+dimwishlist:item=42435996&perks=831391274,2396489472
+dimwishlist:item=42435996&perks=831391274,1089671869
+dimwishlist:item=42435996&perks=831391274,3081867624
+dimwishlist:item=42435996&perks=831391274,4049631843
 
-# Warlock Class Items
-dimwishlist:item=2273643087&perks=183430253,1476923957#notes: ⭐Osmiomancy + Verity⭐
-dimwishlist:item=2273643087&perks=183430252,1476923956#notes: ⭐Necrotic + Syntho⭐
-dimwishlist:item=2273643087&perks=183430250,1476923955#notes: ⭐Apotheosis + StarEaters⭐
-
-# Titan Class Items
-dimwishlist:item=266021826&perks=3573490510,3573490506#notes: ⭐Abeyant + Horn⭐
-dimwishlist:item=266021826&perks=3573490505,3573490500#notes: ⭐Bear + Armamentarium⭐
-dimwishlist:item=266021826&perks=3573490511,1476923955#notes: ⭐Eternal + StarEaters⭐
-dimwishlist:item=266021826&perks=3573490509,1476923956#notes: ⭐Severance + Syntho⭐
-
-test
+# Heavy Bow - Mercury-A
+dimwishlist:item=2838279629&perks=3523296417,3891536761
+dimwishlist:item=2838279629&perks=243981275,3891536761
